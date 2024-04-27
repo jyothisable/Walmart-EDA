@@ -35,4 +35,4 @@ Purchase:	Purchase Amount
 With hypothesis testing, we proved below with a significance level of 0.01
 * Men spend more than women on average (purchase value)
 * Male customers tend to have higher average order value than female customers (AOV signifies purchasing power/disposable income)
-Marriage reduced the average order value for men while increased for women
+* Marriage reduced the average order value for men while increased for women
