@@ -12,6 +12,7 @@ This dataset contains a sample of transactional data of customers who purchased 
 **Methods and Techniques used:** EDA and hypothesis testing
 
 **Features**
+
 User_ID:	User ID
 
 Product_ID:	Product ID
